@@ -30,6 +30,7 @@ A roadmap to become a linux admin. Improve your knowledge!
 * **Base linux concepts**
 * * `Article` [Operating System - Linux - Tutorialspoint](https://www.tutorialspoint.com/operating_system/os_linux.htm)
 * * `Article` [Linux tutorial](https://www.tldp.org/LDP/gs/node5.html)
+
 **[Linux: basic commands](https://infinite.education/view/linux_basic_commands)**
 * * `Article` [linux basic commands - Google Suche](https://www.google.com/search?q=linux+basic+commands)
 * * `Article` [40 Basic Linux Commands used Frequently](https://linoxide.com/linux-command/essential-linux-basic-commands/)
@@ -44,6 +45,7 @@ A roadmap to become a linux admin. Improve your knowledge!
 * **Linux commands: network management**
 * **Linux command: other**
 * **Linux commands: process management**
+
 **[Programming](https://infinite.education/view/programming)**
 * * `Article` [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 * **Python**
@@ -73,6 +75,7 @@ A roadmap to become a linux admin. Improve your knowledge!
 * **Linux dynamic libraries**
 * * `Article` [Static and Dynamic Libraries | Set 1 - GeeksforGeeks](https://www.geeksforgeeks.org/static-vs-dynamic-libraries/?fbclid=IwAR15Y81Df8V99xDx-UGRirIlL_SjyCxoWT3tkcK3wIvtTkCU1pTiC3yXGaY)
 * * `Article` [Linux Tutorial - Static, Shared Dynamic and Loadable Linux Libraries](http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)
+
 **[Linux containers](https://infinite.education/view/linux_containers)**
 * * `Article` [Docker internals](https://medium.com/@BeNitinAgarwal/understanding-the-docker-internals-7ccb052ce9fe)
 * **Linux LVM**
@@ -84,6 +87,7 @@ A roadmap to become a linux admin. Improve your knowledge!
 * * `Video` [Introduction to docker compose | Docker - YouTube](https://www.youtube.com/watch?v=vQmk9moF8vw)
 * * `Video` [What is Docker? - YouTube](https://www.youtube.com/watch?v=u-YWtdbpEhQ)
 * * `Video` [What is Kubernetes | Kubernetes explained in 15 mins - YouTube](https://www.youtube.com/watch?v=VnvRFRk_51k)
+
 **[Automation](https://infinite.education/view/automation)**
 * * `Article` [Top 5 configuration management tools | Opensource.com](https://opensource.com/article/18/12/configuration-management-tools)
 * * `Article` [What is configuration management?](https://www.redhat.com/en/topics/automation/what-is-configuration-management)
