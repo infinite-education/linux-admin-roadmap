@@ -101,6 +101,6 @@ A roadmap to become a linux admin. Improve your knowledge!
 
 To see a interactive roadmap click on picture
 
-[![alt text](https://raw.githubusercontent.com/infinite-education/linux-admin-roadmap/main/linux-administrator.png)](https://infinite.education/expertise/linux_administrator)
+[![alt text](https://raw.githubusercontent.com/infinite-education/linux-admin-roadmap/main/Linux-administrator.png)](https://infinite.education/expertise/linux_administrator)
 
 
