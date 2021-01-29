@@ -1,7 +1,7 @@
 ## [Linux administrator roadmap](https://infinite.education/view/linux_administrator)
 A roadmap to become a linux admin. Improve your knowledge!
 
-**[Linux](https://infinite.education/view/linux)**
+# **[Linux](https://infinite.education/view/linux)**
 * `Article` [Linux](https://en.wikipedia.org/wiki/Linux)
 * `Article` [Expertise: Linux administrator (roadmap)](https://infinite.education/expertise/linux_administrator)
 * `Article` [Linux - Wikipedia](https://en.wikipedia.org/wiki/Linux)
@@ -38,7 +38,7 @@ A roadmap to become a linux admin. Improve your knowledge!
 * `Article` [Operating System - Linux - Tutorialspoint](https://www.tutorialspoint.com/operating_system/os_linux.htm)
 * `Article` [Linux tutorial](https://www.tldp.org/LDP/gs/node5.html)
 
-**[Linux: basic commands](https://infinite.education/view/linux_basic_commands)**
+# **[Linux: basic commands](https://infinite.education/view/linux_basic_commands)**
 * `Article` [linux basic commands - Google Suche](https://www.google.com/search?q=linux+basic+commands)
 * `Article` [40 Basic Linux Commands used Frequently](https://linoxide.com/linux-command/essential-linux-basic-commands/)
 
@@ -59,7 +59,7 @@ A roadmap to become a linux admin. Improve your knowledge!
 
 **Linux commands: process management**
 
-**[Programming](https://infinite.education/view/programming)**
+# **[Programming](https://infinite.education/view/programming)**
 * `Article` [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 **Python**
@@ -95,7 +95,7 @@ A roadmap to become a linux admin. Improve your knowledge!
 * `Article` [Static and Dynamic Libraries | Set 1 - GeeksforGeeks](https://www.geeksforgeeks.org/static-vs-dynamic-libraries/?fbclid=IwAR15Y81Df8V99xDx-UGRirIlL_SjyCxoWT3tkcK3wIvtTkCU1pTiC3yXGaY)
 * `Article` [Linux Tutorial - Static, Shared Dynamic and Loadable Linux Libraries](http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)
 
-**[Linux containers](https://infinite.education/view/linux_containers)**
+# **[Linux containers](https://infinite.education/view/linux_containers)**
 * `Article` [Docker internals](https://medium.com/@BeNitinAgarwal/understanding-the-docker-internals-7ccb052ce9fe)
 
 **Linux LVM**
